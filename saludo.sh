@@ -1,2 +1,3 @@
-echo "hola mundo con jenkins y gihub"
-echo "probando trigger desde gihub y jenkins"
+#!/bin/bash
+echo "demo final"
+date

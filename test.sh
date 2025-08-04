@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Hola, este es un build automático de prueba"
+echo "demo final"
 date
